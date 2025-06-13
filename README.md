@@ -80,19 +80,8 @@ Este projeto permite que você programe o envio automático de mensagens (links,
 
 ---
 
-## 🧪 Screenshots
-
-
----
-
 ## 📄 Licença 
 
 Este projeto é distribuído sob a licença MIT.  
 
-
 ---
-
-## 💡 Referências
-
-- Automação via 'Click to Chat' do WhatsApp Web com Selenium e C# :contentReference[oaicite:1]{index=1}  
-- Exemplos de agendamento com Selenium para WhatsApp Web :contentReference[oaicite:2]{index=2}  
